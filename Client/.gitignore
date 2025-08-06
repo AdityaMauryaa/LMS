@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build output
+dist/
+build/
+*.log
+
+# Vite cache
+.vite/
+
+# Local env files
+.env
+.env.*
+
+# System files
+.DS_Store
+
+# IDE/project settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# MacOS metadata
+*.DS_Store

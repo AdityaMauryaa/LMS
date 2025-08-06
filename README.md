@@ -29,16 +29,15 @@ The Learning Management System (LMS) is a web-based application that facilitates
 
 By default, the LMS comes with an admin account. Use the following credentials to log in:
 
-- **Email-1:** `pgupta49@gmail.com`
-- **Password-1:** `123456789@Lms`
+- **Email-1:** `admin@gmail.com`
+- **Password-1:** `Admin@123`
   
 ## User Login Credentials
 
 By default, the LMS comes with an admin account. Use the following credentials to log in:
 
-- **Email-1:** `user1@gmail.com`
-- **Password-1:** `123456789@Lms`
-
+- **Email-1:** `user@gmail.com`
+- **Password-1:** `User@123`
 ## Installation
 
  Clone the project 
@@ -132,10 +131,4 @@ Before running this project locally, ensure you have the following installed:
 - [Razorpay](https://razorpay.com/) account and API credentials
 
 ## Contributing
-
-We welcome contributions to Learning Management System  Feel free to create pull requests with your enhancements or bug fixes. Please ensure your contributions adhere to the coding style and conventions used in the project.
-
-## Further-Support
-
-If you encounter any issues or have questions, feel free to raise them as GitHub issues, and we'll be happy to assist you.
-
+Feel free to create pull requests with your enhancements or bug fixes. Please ensure your contributions adhere to the coding style and conventions used in the project.

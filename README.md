@@ -42,10 +42,6 @@ By default, the LMS comes with an admin account. Use the following credentials t
 
  Clone the project 
 
-```bash
-git@github.com:Princegupta101/Larning-Management-System.git
-```
-
 ### Setup instruction  for Frontend
 
 1. Move into the directory
@@ -132,3 +128,4 @@ Before running this project locally, ensure you have the following installed:
 
 ## Contributing
 Feel free to create pull requests with your enhancements or bug fixes. Please ensure your contributions adhere to the coding style and conventions used in the project.
+

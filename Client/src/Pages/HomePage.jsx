@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import homeimg from "../Assets/Images/homePageMainImage.png";
+import homeimg from "../Assets/Images/Homepage2.png";
 import HomeLayout from "../Layouts/HomeLayout";
 
 function HomePage() {
@@ -58,3 +58,4 @@ function HomePage() {
 }
 
 export default HomePage;
+

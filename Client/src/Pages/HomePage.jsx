@@ -8,11 +8,11 @@ function HomePage() {
             <div className="pt-10 text-white flex flex-col md:flex-row items-center justify-center mx-5 gap-10 lg:mx-16 h-[50rem] sm:h-[90vh]">
                 {/* Text section */}
                 <div className="mt-16 sm:mt-0 flex flex-col justify-center space-y-6">
-                     <h1 className="text-xl sm:text-5xl ">
+                     <h1 className="text-xl sm:text-3xl ">
                        Why Just Learn — When You Can Lead?
                     </h1>
                     <h1 className="text-xl sm:text-5xl ">
-                        YLearn Smarter , 
+                        Learn Smarter , 
                         <span className="border rounded-md px-2 py-0 bg-cyan-900 ml-2">
                             Grow Faster
                         </span>
@@ -62,5 +62,6 @@ function HomePage() {
 }
 
 export default HomePage;
+
 
 

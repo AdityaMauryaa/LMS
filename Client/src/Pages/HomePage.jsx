@@ -38,18 +38,19 @@ function HomePage() {
                     </div>
 
                     {/* AI-based generator CTA */}
-                    <div className="mt-6 text-sm sm:text-base">
-                        <p className="mb-1">✨ Not sure what to learn? </p>
-                         <p className="mb-1">Use
+                    <div className="mt-6 text-sm sm:text-base text-gray-300">
+                      <p className="mb-1">✨ Not sure what to learn next?</p>
+                      <p className="mb-1">
+                        Let&nbsp;
                         <a
-                            href="https://sublime-eta.vercel.app/"
-                            // target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-cyan-500 underline hover:text-cyan-300"
+                          href="https://sublime-eta.vercel.app/"
+                          rel="noopener noreferrer"
+                          className="text-cyan-500 underline hover:text-cyan-300"
                         >
-                             Sublime-IQ,
+                          Sublime-IQ
                         </a>
-                         Our AI assistant, to help you decide — absolutely free</p>
+                        &nbsp;— our AI-powered learning assistant — guide you. It’s smart, fast, and completely free.
+                      </p>
                     </div>
                 </div>
 
@@ -63,6 +64,7 @@ function HomePage() {
 }
 
 export default HomePage;
+
 
 
 
